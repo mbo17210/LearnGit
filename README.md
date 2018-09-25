@@ -1,3 +1,3 @@
-# LearnGit
-Learning Git in CS Class
-*Hello
+# LearnGit \n
+Learning Git in CS Class \n
+*Hello \n
